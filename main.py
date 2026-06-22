@@ -12,4 +12,4 @@ while (a != n):
     else:
         print ("Higher number please!")
 
-print (f"You have guessed the number corectly in {guesses} guesses!")
+print (f"You have guessed the number {n} corectly in {guesses} guesses!")
